@@ -1,5 +1,7 @@
 # greatest-of-three-numbers
-This is a simple C program that takes three numbers as input from the user and finds the greatest among them using conditional statements. It demonstrates the use of if-else logic and basic input/output handling in C.
+This is a simple C program that takes three numbers as input from the user 
+- finds the greatest among them using conditional statements.
+- It demonstrates the use of if-else logic and basic input/output handling in C.
 
 # How the program works-:
  - The program asks the user to enter three integer values.
@@ -11,16 +13,19 @@ This is a simple C program that takes three numbers as input from the user and f
 - Enter your second number: 25
 - Enter your third number: 14
 - 25 is greatest
-
+- 
+# Requirements
+- Any C compiler (such as GCC).
+- Works on Linux, Windows, and macOS.
+- 
 # How to Run
 - 1 Save the code in a file named {greatest.c .}
 - 2 Open a terminal/command prompt in the same directory.
   
 # Compile the program using:
-bash`` 
+```bash 
 gcc greatest.c -o greatest
 ./greatest
 
-# Requirements
-- • Any C compiler (such as GCC).
-- • Works on Linux, Windows, and macOS.
+
+
