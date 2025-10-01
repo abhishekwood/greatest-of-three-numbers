@@ -19,8 +19,8 @@ This is a simple C program that takes three numbers as input from the user
 - Works on Linux, Windows, and macOS.
 
 # How to Run
-- 1 Save the code in a file named {greatest.c .}
-- 2 Open a terminal/command prompt in the same directory.
+-  Save the code in a file named {greatest.c .}
+- Open a terminal/command prompt in the same directory.
   
 # Compile the program using:
 ```bash 
