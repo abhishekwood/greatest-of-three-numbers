@@ -2,9 +2,9 @@
 This is a simple C program that takes three numbers as input from the user and finds the greatest among them using conditional statements. It demonstrates the use of if-else logic and basic input/output handling in C.
 
 # How the program works-:
- 1- The program asks the user to enter three integer values.
- 2- It compares the values using     if,else,else-if conditions.
-3- It prints the greatest number as the output.
+ - The program asks the user to enter three integer values.
+ - It compares the values using     if,else,else-if conditions.
+- It prints the greatest number as the output.
 
 # Example Input/Output
 Enter your first number: 10
